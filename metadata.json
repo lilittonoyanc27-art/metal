@@ -1,0 +1,6 @@
+{
+  "name": "La Edad de los Metales - Metal Ages (ES / HY)",
+  "description": "Interactive study unit for Prehistory: The Metal Ages in Spanish and Armenian with click-to-reveal translations, vocabulary, and exam Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
